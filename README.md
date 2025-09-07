@@ -1,33 +1,39 @@
-Hello there!
+# Hello, Fellow < Developers/ > 👋
 
-I'm Muhammad Israr, a dedicated Flutter Developer from Pakistan 🇵🇰
+Hi! I'm **Muhammad Israr** — a passionate Flutter Developer from Pakistan 🇵🇰  
 
-I'm passionate about building clean, scalable, and high-quality mobile applications.
+## 👨‍💻 About Me  
+- 🔭 Currently working as a Flutter Developer at Createex.  
+- 💻 Tech Stack: Flutter, Dart, GetX, Firebase, REST APIs, Google Maps, Gemini AI.  
+- 🌱 Exploring advanced state management (Riverpod & BLoC) and clean architecture.  
+- 🤝 Open to collaborations on impactful mobile projects (AI, e-commerce, social apps).  
+- 💬 Ask me about app publishing, state management, API integrations, and Firebase.  
+- ⚡ Fun fact: I can turn your website or Figma design into a published mobile app 🚀  
 
-👨‍💻 About Me
+---
 
-    🔭 I am a Flutter Developer, building mobile solutions that solve real-world problems.
+## 🛠️ Tech Stack  
+**Languages & Frameworks:** Dart, Flutter, JavaScript (basic)  
+**State Management:** GetX, Provider, Riverpod (familiar), BLoC (basic)  
+**Architecture & Principles:** MVVM, MVC, Clean Architecture, SOLID  
+**Tools & Platforms:** Android Studio, VS Code, Git, Postman, Figma  
+**APIs & Services:** REST APIs, Firebase, Google Maps, Gemini AI  
+**Other Skills:** Localization, Dependency Injection, Offline Storage  
 
-    🌱 I'm always learning new things, with a focus on advanced state management and app performance.
+---
 
-    🤝 I'm open to collaborating on innovative mobile projects.
+## 📊 GitHub Stats  
+![Israr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsrarKundi&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=IsrarKundi&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsrarKundi&layout=compact&theme=radical)  
 
-    💬 Feel free to ask me about mobile app architecture, API integration, or app publishing.
+---
 
-    ⚡ Fun fact: I enjoy creating small projects just to experiment with new technologies.
+## 📬 Connect With Me  
+- [LinkedIn](https://linkedin.com/in/israr-kundi-21027b243)  
+- [GitHub](https://github.com/IsrarKundi)  
+- 📧 Email: israrikhere@gmail.com  
 
-🛠️ Tech Stack
+---
 
-Languages & Frameworks
-Flutter • Dart • JavaScript
-
-State Management
-GetX • Provider • Riverpod
-
-Architecture
-MVVM • Clean Architecture
-
-Tools & Platforms
-Firebase • REST APIs • Gemini AI • Google Maps API • Git • Figma
-
-📊 GitHub Stats
+![Jokes Card](https://readme-jokes.vercel.app/api)  
